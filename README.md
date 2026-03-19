@@ -1,1 +1,2 @@
-# ANN-Churn-Classification-v2
+# Langchain_Project
+#Using Ollama LLM, HuggingFace Embeddings, RAG Based Projects
